@@ -124,7 +124,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <div className="header-left">
-          <h1>📋 Job Board Assistant</h1>
+          <h1>📋 Job Board Assistant By Ravi</h1>
           <p>Track your job application journey</p>
         </div>
         <div className="header-actions">
