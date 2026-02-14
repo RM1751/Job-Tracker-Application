@@ -1,4 +1,4 @@
-# 📋 Job Board Assistant
+# 📋 Job Board Assistant By Ravi
 
 A simple, beautiful Kanban-style job application tracker that runs locally in your browser. Track your job search journey, monitor which resume you used for each application, and view detailed statistics about your progress.
 
